@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "252184004615",
+    "project_id": "foxpro-29980",
+    "storage_bucket": "foxpro-29980.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252184004615:android:4586e7af21f2f4e80442a2",
+        "android_client_info": {
+          "package_name": "com.foxpro.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252184004615-acbqv7ih87402khluqcv8cvfvbqogh4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM-L_EZG_bJM-MVQnHmJhVjdFhawpddtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252184004615-acbqv7ih87402khluqcv8cvfvbqogh4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
